@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="77d08108-2091-4701-aa10-ec4d7601d025" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="77d08108-2091-4701-aa10-ec4d7601d025" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -234,7 +232,7 @@
       <updated>1558591749615</updated>
       <workItem from="1558591759235" duration="1946000" />
       <workItem from="1563343592977" duration="703000" />
-      <workItem from="1563344421706" duration="2352000" />
+      <workItem from="1563344421706" duration="2956000" />
     </task>
     <task id="LOCAL-00001" summary="首次提交文件">
       <created>1563345080941</created>
@@ -247,7 +245,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5001000" />
+    <option name="totallyTimeSpent" value="5605000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="0" />
